@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StandaloneApplicationCSharp/1.0.0": {
+        "dependencies": {
+          "EPDM.Interop.epdm": "5.24.0.0"
+        },
+        "runtime": {
+          "StandaloneApplicationCSharp.dll": {}
+        }
+      },
+      "EPDM.Interop.epdm/5.24.0.0": {
+        "runtime": {
+          "EPDM.Interop.epdm.dll": {
+            "assemblyVersion": "5.24.0.0",
+            "fileVersion": "29.3.0.63"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StandaloneApplicationCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EPDM.Interop.epdm/5.24.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
